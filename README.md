@@ -17,4 +17,4 @@ It is javascript dataproject which draw a IPL charts on Browser.
    ```
 3. Run the http://0.0.0.0:8000/home.html on your browser.
 
-If you want to see live website than [click](https://javascript-achal.herokuapp.com/) here
+If you want to see live website than [click](https://javascript-ipl-project.herokuapp.com/) here
